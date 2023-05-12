@@ -5,13 +5,13 @@
 
 | Title  | Link  | Year  | Note |
 |---|---|---|---|
-| A new model for learning in graph domains  | https://ieeexplore.ieee.org/document/1555942  | 2005.  | |
+| A new model for learning in graph domains  | https://ieeexplore.ieee.org/document/1555942  | 2005  | |
 |  The Graph Neural Network Model |  https://ieeexplore.ieee.org/document/4700287 |  2009 | |
 ## Architectures
 
 | Title  | Link  | Year  | Note |
 |---|---|---|---|
-| Semi-Supervised Classification with Graph Convolutional Networks | https://arxiv.org/abs/1609.02907  | 2016.  | GCN |
+| Semi-Supervised Classification with Graph Convolutional Networks | https://arxiv.org/abs/1609.02907  | 2016  | GCN |
  Inductive Representation Learning on Large Graphs | https://arxiv.org/abs/1706.02216  | 2017  | GraphSAGE |
 | Graph Attention Networks | https://arxiv.org/abs/1710.10903  | 2018  | GAT | |
 | How Powerful are Graph Neural Networks? |  https://arxiv.org/abs/1810.00826 |  2018  | GIN |
@@ -19,10 +19,6 @@
 | Representation Learning on Graphs with Jumping Knowledge Networks   |  https://arxiv.org/abs/1806.03536 | 2018  |   |
 | Graph Transformer Networks  |  https://arxiv.org/abs/1911.06455 |  2019 |   |
 | Attending to Graph Transformers  | https://arxiv.org/abs/2302.04181  | 2023  |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
 
 
 
@@ -41,7 +37,7 @@
 | Understanding over-squashing and bottlenecks on graphs via curvature   |  https://arxiv.org/abs/2111.14522  | 2022  |   |
 |  On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology |  https://arxiv.org/abs/2302.02941 | 2023  |   |
 |  WL meet VC | https://arxiv.org/abs/2301.11039  | 2023  |   |
-|   |   |   |   |
+
 
 ## Survey
 
@@ -49,8 +45,5 @@
 |---|---|---|---|
 | A Comprehensive Survey on Graph Neural Networks  |  https://arxiv.org/abs/1901.00596 | 2019  |   |
 |  Understanding Pooling in Graph Neural Networks  | https://arxiv.org/abs/2110.05292  | 2022  |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
-|   |   |   |   |
+
 
