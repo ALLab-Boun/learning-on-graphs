@@ -52,7 +52,7 @@
 ## Survey
 
 | Title  | Link  | Year  |
-|---|---|---|---|
+|---|---|---|
 | A Comprehensive Survey on Graph Neural Networks  |  [https://arxiv.org/abs/1901.00596](https://arxiv.org/abs/1901.00596) | 2019  |
 |  Understanding Pooling in Graph Neural Networks  | [https://arxiv.org/abs/2110.05292](https://arxiv.org/abs/2110.05292)  | 2022  |
 | Attending to Graph Transformers  | [https://arxiv.org/abs/2302.04181](https://arxiv.org/abs/2302.04181)  | 2023  |
