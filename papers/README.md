@@ -19,7 +19,6 @@
 |  Weisfeiler and Leman Go Neural: Higher-order Graph Neural Networks |  [https://arxiv.org/abs/1810.02244](https://arxiv.org/abs/1810.02244) |  2018 |   |   
 | Representation Learning on Graphs with Jumping Knowledge Networks   | [https://arxiv.org/abs/1806.03536](https://arxiv.org/abs/1806.03536)  | 2018  |   |
 | Graph Transformer Networks  |  [https://arxiv.org/abs/1911.06455](https://arxiv.org/abs/1911.06455) |  2019 |   |
-| Attending to Graph Transformers  | [https://arxiv.org/abs/2302.04181](https://arxiv.org/abs/2302.04181)  | 2023  |   |
 
 
 
@@ -37,11 +36,24 @@
 |  WL meet VC | [https://arxiv.org/abs/2301.11039](https://arxiv.org/abs/2301.11039)  | 2023  |   |
 
 
+## Graph Rewiring
+
+| Title  | Link  | Year  | Note |
+|---|---|---|---|
+| Diffusion Improves Graph Learning |  [https://arxiv.org/abs/1911.05485](https://arxiv.org/abs/1911.05485)  | 2019  |   |
+| Understanding over-squashing and bottlenecks on graphs via curvature   |  [https://arxiv.org/abs/2111.14522](https://arxiv.org/abs/2111.14522)  | 2022  |   | 
+| DiffWire: Inductive Graph Rewiring via the Lovász Bound   |  [https://arxiv.org/abs/2206.07369](https://arxiv.org/abs/2206.07369)  | 2022  |   | 
+| DRew: Dynamically Rewired Message Passing with Delay   |  [https://arxiv.org/abs/2305.08018](https://arxiv.org/abs/2305.08018)  | 2023  |   | 
+
+
+
+
+
 ## Survey
 
 | Title  | Link  | Year  | Note |
 |---|---|---|---|
 | A Comprehensive Survey on Graph Neural Networks  |  [https://arxiv.org/abs/1901.00596](https://arxiv.org/abs/1901.00596) | 2019  |   |
 |  Understanding Pooling in Graph Neural Networks  | [https://arxiv.org/abs/2110.05292](https://arxiv.org/abs/2110.05292)  | 2022  |   |
-
+| Attending to Graph Transformers  | [https://arxiv.org/abs/2302.04181](https://arxiv.org/abs/2302.04181)  | 2023  |   |
 
