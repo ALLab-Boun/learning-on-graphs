@@ -13,6 +13,7 @@
 | Title  | Link  | Year  | Note |
 |---|---|---|---|
 | Semi-Supervised Classification with Graph Convolutional Networks | [https://arxiv.org/abs/1609.02907](https://arxiv.org/abs/1609.02907)  | 2016  | GCN |
+| Gated Graph Sequence Neural Networks | [https://arxiv.org/abs/1511.05493](https://arxiv.org/abs/1511.05493)  | 2016  | GGNN |
 | Inductive Representation Learning on Large Graphs | [https://arxiv.org/abs/1706.02216](https://arxiv.org/abs/1706.02216)  | 2017  | GraphSAGE |
 | Graph Attention Networks | [https://arxiv.org/abs/1710.10903](https://arxiv.org/abs/1710.10903)  | 2018  | GAT |
 | How Powerful are Graph Neural Networks? |  [https://arxiv.org/abs/1810.00826](https://arxiv.org/abs/1810.00826) |  2018  | GIN |
@@ -22,7 +23,7 @@
 
 
 
-## Expressivity
+## Expressivity & Limitations
 
 | Title  | Link  | Year  |
 |---|---|---|
@@ -34,6 +35,7 @@
 | Understanding over-squashing and bottlenecks on graphs via curvature   |  [https://arxiv.org/abs/2111.14522](https://arxiv.org/abs/2111.14522)  | 2022  |
 |  On Over-Squashing in Message Passing Neural Networks: The Impact of Width, Depth, and Topology |  [https://arxiv.org/abs/2302.02941](https://arxiv.org/abs/2302.02941) | 2023 |
 |  WL meet VC | [https://arxiv.org/abs/2301.11039](https://arxiv.org/abs/2301.11039)  | 2023  |
+|  ContraNorm: A Contrastive Learning Perspective on Oversmoothing and Beyond | [https://arxiv.org/abs/2303.06562](https://arxiv.org/abs/2303.06562)  | 2023  |
 
 
 ## Graph Rewiring
